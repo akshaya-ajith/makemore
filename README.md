@@ -1,2 +1,2 @@
 # makemore
-learning ML generates baby names
+learning ML by developing a character-level auto-regressive language model
